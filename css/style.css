@@ -6,3 +6,12 @@ h1, h2, h3{
 	text-align: center;
 	font-size: 11em;
 }
+div.zoro{
+	width: 100%;
+	height: 600px;
+}
+img.zorop{
+	display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
